@@ -1,4 +1,4 @@
-# Panorama Stitching MATLAB App
+# Siftrama: A Panorama Stitching MATLAB App Using the SIFT Algorithm
 
 ## Overview
 
